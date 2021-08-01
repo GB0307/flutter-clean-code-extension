@@ -3,6 +3,8 @@
 	"displayName": "Flutter Clean Code",
 	"description": "A vs code extension to write clean code in flutter",
 	"version": "0.0.1",
+	"author": "Gabriel Borges",
+	"publisher": "gabriel-borges",
 	"engines": {
 		"vscode": "^1.58.0"
 	},
